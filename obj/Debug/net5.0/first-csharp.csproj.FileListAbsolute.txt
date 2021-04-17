@@ -1,0 +1,16 @@
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.exe
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.deps.json
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.runtimeconfig.json
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.runtimeconfig.dev.json
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.dll
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\ref\first-csharp.dll
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\bin\Debug\net5.0\first-csharp.pdb
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.csprojAssemblyReference.cache
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.AssemblyInfoInputs.cache
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.AssemblyInfo.cs
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.csproj.CoreCompileInputs.cache
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.dll
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\ref\first-csharp.dll
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.pdb
+C:\Users\basil\Documents\Visual Studio Code\first-csharp\obj\Debug\net5.0\first-csharp.genruntimeconfig.cache
